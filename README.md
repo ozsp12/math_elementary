@@ -8,18 +8,19 @@ The repository is not intended to be a software package or a single linear cours
 
 A detailed catalogue is available in [CONTENTS.md](CONTENTS.md).
 
-| Area | Description | Directory |
-|---|---|---|
-| Single-variable calculus | Symbolic computation, derivatives, integrals, series, and introductory SymPy material | [`one_variable_calculus/`](one_variable_calculus/) |
-| Vector calculus | Parametric curves, vector motion, the circular helix, polar plots, and geometric algebra | [`vector_calculus/`](vector_calculus/) |
-| Differential equations | Symbolic and numerical examples involving ordinary and partial differential equations | [`differential_equations/`](differential_equations/) |
-| Riemann sums | Numerical integration and animated geometric interpretations | [`riemann_sum/`](riemann_sum/) |
-| Visual proofs | Geometric and algebraic demonstrations presented through computation and animation | [`visual_proofs/`](visual_proofs/) |
-| Fractals | Iterated-function-system construction of the Barnsley fern | [`barnsley_fern/`](barnsley_fern/) |
-| Inequalities | Notes and visual material related to arithmetic, geometric, and harmonic means | [`qm_am_gm_ah_inequality/`](qm_am_gm_ah_inequality/) |
-| Mathematical curiosities | Banach--Tarski, divergent series, and mathematical references in popular culture | [`futurama_banach_tarski/`](futurama_banach_tarski/) |
-| Plane geometry | A geometry problem involving arcs and chains of tangent circles | [`plane_geometry_question_737/`](plane_geometry_question_737/) |
-| Examination problems | Worked solutions and instructional material for ENEM and IME questions | [See the examination section](CONTENTS.md#examination-problems) |
+| Area | Description | Directory | YouTube |
+|---|---|---|---|
+| Single-variable calculus | Symbolic computation, derivatives, integrals, series, and introductory SymPy material | [`one_variable_calculus/`](one_variable_calculus/) | — |
+| Vector calculus | Parametric curves, vector motion, the circular helix, polar plots, and geometric algebra | [`vector_calculus/`](vector_calculus/) | — |
+| Differential equations | Symbolic and numerical examples involving ordinary and partial differential equations | [`differential_equations/`](differential_equations/) | — |
+| Riemann sums | Numerical integration and animated geometric interpretations | [`riemann_sum/`](riemann_sum/) | — |
+| Visual proofs | Geometric and algebraic demonstrations presented through computation and animation | [`visual_proofs/`](visual_proofs/) | — |
+| Fractals | Iterated-function-system construction of the Barnsley fern | [`barnsley_fern/`](barnsley_fern/) | — |
+| Inequalities | Notes and visual material related to arithmetic, geometric, and harmonic means | [`qm_am_gm_ah_inequality/`](qm_am_gm_ah_inequality/) | — |
+| Futurama, Banach--Tarski, and divergent series | Notes and computational graphics connecting mathematical curiosities and popular culture | [`futurama_banach_tarski/`](futurama_banach_tarski/) | [Watch](https://www.youtube.com/watch?v=zb1tEaJ2yFc) |
+| Plane geometry: tangent circles and arcs | Presentation and article on a geometry problem involving arcs and a chain of tangent circles | [`plane_geometry_question_737/`](plane_geometry_question_737/) | [Video 1](https://www.youtube.com/watch?v=uVLGv0mEACs) · [Video 2](https://www.youtube.com/watch?v=XBjucUgcMCs) |
+| ENEM 2025: tangent function | Worked solution, computational visualization, PDF material, and animation | [`questao_tangente_enem_2025/`](questao_tangente_enem_2025/) | [Watch](https://www.youtube.com/watch?v=fvKghpRJkY8) |
+| IME 2025: written mathematics question 8 | Source problem, didactic paper, and supporting figures | [`questao_08_math_dissertativa_ime_2025/`](questao_08_math_dissertativa_ime_2025/) | [Watch](https://www.youtube.com/watch?v=oY2PUGaeMuw) |
 
 ## How to use the material
 
@@ -27,7 +28,8 @@ A detailed catalogue is available in [CONTENTS.md](CONTENTS.md).
 2. Read the local `README.md` when one is available in the topic directory.
 3. Use the notebook as the main computational document.
 4. Consult the PDF files for formatted lecture notes or article-style exposition.
-5. Open GIF or MP4 files only when the topic includes an animation or video demonstration.
+5. Open GIF or MP4 files when the topic includes an animation or video demonstration.
+6. Use the YouTube links for the corresponding narrated lesson.
 
 The notes are written in English, Portuguese, or a mixture of both, depending on the original audience. Mathematical notation and code are generally presented using LaTeX, Python, SymPy, NumPy, SciPy, and Matplotlib.
 
