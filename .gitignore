@@ -2,8 +2,6 @@
 .DS_Store
 Thumbs.db
 
-.gitignore
-
 # Editors
 .vscode/
 .idea/
@@ -40,5 +38,5 @@ dist/
 tmp/
 .temp/
 
-# Keep published PDFs, images, GIFs, and videos under version control.
+# Published PDFs, images, GIFs, and videos remain under version control.
 # They are part of the public lecture-note and tutorial archive.
