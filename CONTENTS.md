@@ -1,6 +1,6 @@
 # Contents
 
-This catalogue organizes the repository as a collection of lecture notes, tutorials, worked problems, computational demonstrations, and supporting media. Existing paths are preserved so that external links remain stable.
+This catalogue organizes the repository as a collection of lecture notes, tutorials, worked problems, computational demonstrations, videos, and supporting media. Existing paths are preserved so that external links remain stable.
 
 ## Calculus and Analysis
 
@@ -62,10 +62,13 @@ Directory: [`visual_proofs/`](visual_proofs/)
 
 Directory: [`plane_geometry_question_737/`](plane_geometry_question_737/)
 
-This directory contains formatted instructional material for a plane-geometry problem involving circumference arcs and a chain of tangent circles.
+This directory contains the notes, presentation, and article associated with two YouTube lessons on a plane-geometry problem involving circumference arcs and a chain of tangent circles.
 
+- [YouTube video 1](https://www.youtube.com/watch?v=uVLGv0mEACs)
+- [YouTube video 2](https://www.youtube.com/watch?v=XBjucUgcMCs)
 - `fme_plane_geometry_presentation_english.pdf`: presentation-style exposition.
 - `paper_circumference_arcs_chain_tangent_circles.pdf`: article-style exposition.
+- [Directory documentation](plane_geometry_question_737/README.md)
 
 ## Fractals and Mathematical Visualization
 
@@ -81,8 +84,12 @@ Directory: [`barnsley_fern/`](barnsley_fern/)
 
 Directory: [`futurama_banach_tarski/`](futurama_banach_tarski/)
 
+This directory contains the written and computational material associated with a YouTube video connecting a Futurama episode, the Banach--Tarski paradox, and divergent series.
+
+- [Watch the YouTube video](https://www.youtube.com/watch?v=zb1tEaJ2yFc)
 - `futurama_banach_tarski.pdf`: formatted notes or article.
 - [`graphics_benderama_banach_tarski.ipynb`](futurama_banach_tarski/graphics_benderama_banach_tarski.ipynb): computational graphics used in the exposition.
+- [Directory documentation](futurama_banach_tarski/README.md)
 
 ## Examination Problems
 
@@ -90,20 +97,26 @@ Directory: [`futurama_banach_tarski/`](futurama_banach_tarski/)
 
 Directory: [`questao_tangente_enem_2025/`](questao_tangente_enem_2025/)
 
-This unit combines a worked solution, computational visualization, and exported teaching material.
+This directory contains the source material, worked solution, visualization, and exports prepared for the corresponding YouTube lesson.
 
+- [Watch the YouTube video](https://www.youtube.com/watch?v=fvKghpRJkY8)
 - [`funcao_tangente_questao_Enem.ipynb`](questao_tangente_enem_2025/funcao_tangente_questao_Enem.ipynb): principal notebook.
 - `questao_160_enem2025_funcao_tangente.pdf`: formatted problem material.
 - `tangent_a0_b1_c1_d0.mp4`: animation.
 - `tex/`: notebook export and auxiliary figures.
+- [Directory documentation](questao_tangente_enem_2025/README.md)
 
 ### IME 2025: written mathematics question 8
 
 Directory: [`questao_08_math_dissertativa_ime_2025/`](questao_08_math_dissertativa_ime_2025/)
 
+This directory contains the source problem, didactic paper, and supporting figures prepared for the corresponding YouTube lesson.
+
+- [Watch the YouTube video](https://www.youtube.com/watch?v=oY2PUGaeMuw)
 - `questao_08_ime_mat_dissertativa_2025_2026.pdf`: problem or source document.
 - `paper_didatico_questao_08_ime_2025.pdf`: didactic exposition.
 - PNG files: supporting figures.
+- [Directory documentation](questao_08_math_dissertativa_ime_2025/README.md)
 
 ## File conventions
 
