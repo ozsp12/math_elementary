@@ -39,14 +39,7 @@ The general bibliography and external course references have been moved to [REFE
 
 ## Author
 
-**Dr. Osvaldo L. Santos-Pereira**
-
-- [Academic webpage](https://ozsp12.github.io/)
-- [Currículo Lattes](http://lattes.cnpq.br/6730251976463283)
-- [ORCID](https://orcid.org/0000-0003-2231-517X)
-- [Google Scholar](https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en)
-- [Substack](https://substack.com/@olsp1982)
-- [YouTube](https://www.youtube.com/@ozlsp12)
+**Dr. Osvaldo L. Santos-Pereira** — [Academic webpage](https://ozsp12.github.io/) · [Lattes](http://lattes.cnpq.br/6730251976463283) · [ORCID](https://orcid.org/0000-0003-2231-517X) · [Google Scholar](https://scholar.google.com/citations?user=HIZp0X8AAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Osvaldo-Santos-Pereira) · [GitHub](https://github.com/ozsp12) · [LinkedIn](https://www.linkedin.com/in/ozsp12) · [Substack](https://substack.com/@olsp1982) · [Medium](https://medium.com/@ozsp12) · [YouTube](https://www.youtube.com/@ozlsp12) · [X](https://x.com/ozsp12)
 
 ## Repository policy
 
